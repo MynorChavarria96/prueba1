@@ -1,0 +1,13 @@
+C:\Users\mynor\source\repos\PruebaListasString\PruebaListasString\bin\Debug\netcoreapp3.1\PruebaListasString.exe
+C:\Users\mynor\source\repos\PruebaListasString\PruebaListasString\bin\Debug\netcoreapp3.1\PruebaListasString.deps.json
+C:\Users\mynor\source\repos\PruebaListasString\PruebaListasString\bin\Debug\netcoreapp3.1\PruebaListasString.runtimeconfig.json
+C:\Users\mynor\source\repos\PruebaListasString\PruebaListasString\bin\Debug\netcoreapp3.1\PruebaListasString.runtimeconfig.dev.json
+C:\Users\mynor\source\repos\PruebaListasString\PruebaListasString\bin\Debug\netcoreapp3.1\PruebaListasString.dll
+C:\Users\mynor\source\repos\PruebaListasString\PruebaListasString\bin\Debug\netcoreapp3.1\PruebaListasString.pdb
+C:\Users\mynor\source\repos\PruebaListasString\PruebaListasString\obj\Debug\netcoreapp3.1\PruebaListasString.csprojAssemblyReference.cache
+C:\Users\mynor\source\repos\PruebaListasString\PruebaListasString\obj\Debug\netcoreapp3.1\PruebaListasString.AssemblyInfoInputs.cache
+C:\Users\mynor\source\repos\PruebaListasString\PruebaListasString\obj\Debug\netcoreapp3.1\PruebaListasString.AssemblyInfo.cs
+C:\Users\mynor\source\repos\PruebaListasString\PruebaListasString\obj\Debug\netcoreapp3.1\PruebaListasString.csproj.CoreCompileInputs.cache
+C:\Users\mynor\source\repos\PruebaListasString\PruebaListasString\obj\Debug\netcoreapp3.1\PruebaListasString.dll
+C:\Users\mynor\source\repos\PruebaListasString\PruebaListasString\obj\Debug\netcoreapp3.1\PruebaListasString.pdb
+C:\Users\mynor\source\repos\PruebaListasString\PruebaListasString\obj\Debug\netcoreapp3.1\PruebaListasString.genruntimeconfig.cache
